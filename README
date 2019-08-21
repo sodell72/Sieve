@@ -1,0 +1,3 @@
+Implements algorithm for finding all prime numbers up to specified value.
+
+Method: Sieve of Eratosthenes
